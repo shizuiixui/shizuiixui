@@ -25,11 +25,11 @@ Hi! I am **Kyran Gabriel E. Josafat**, an **inspiring mobile developer**. I am c
 
 
 ### 📊 GitHub Stats:
-<div align="center">
+<div align="left">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shizuiixui&show_icons=true&theme=dark&hide_border=true&border_radius=8)
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=shizuiixui&theme=dark&hide_border=true&border_radius=8)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=shizuiixui&theme=tokyonight)](https://git.io/streak-stats)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shizuiixui&layout=compact&theme=dark&hide_border=true&border_radius=8)
   
