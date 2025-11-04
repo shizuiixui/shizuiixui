@@ -29,13 +29,14 @@ Hi! I am **Kyran Gabriel E. Josafat**, an **inspiring mobile developer**. I am c
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shizuiixui&show_icons=true&theme=dark&hide_border=true&border_radius=8)
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=shizuiixui&theme=tokyonight)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=shizuiixui&theme=dark&hide_border=true&border_radius=8&cache_bust=1)](https://git.io/streak-stats)
+
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shizuiixui&layout=compact&theme=dark&hide_border=true&border_radius=8)
   
 </div>
 
-💬 “I’d love to learn, grow, and build meaningful things together.”
+💬 I’d love to learn, grow, and build meaningful things together.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyran-gabriel-josafat-37a1432a1/)
 [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:kyjosafat0@gmail.com)
