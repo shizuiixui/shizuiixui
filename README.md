@@ -5,24 +5,36 @@ Hi! I am **Kyran Gabriel E. Josafat**, an **aspiring mobile developer**. I am co
 ### 🧠 What I'm Learning
 - Flutter mobile development
 - Front-end development with HTML, CSS, and JavaScript  
-- UI/UX consistency and responsive design  
+- UI/UX consistency and responsive design
+- Game development
 
 ### ⚙️ Tools & Technologies
+
 <p align="left">
-  <a href="https://flutter.dev">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" style="margin: 30px;"/>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" style="margin: 0 10px 0 0;"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 30px;"/>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 0 10px;"/>
   </a>
-  <a href="https://www.w3.org/html/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="margin: 30px;"/>
+  
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin: 0 10px;"/>
   </a>
-  <a href="https://www.figma.com/">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" style="margin: 30px;"/>
+  
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="margin: 0 10px;"/>
+  </a>
+
+  <a href="https://developer.android.com/guide/topics/ui/declaring-layout" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="XML" width="40" height="40" style="margin: 0 10px;"/>
+  </a>
+
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" style="margin: 0 10px;"/>
   </a>
 </p>
-
 
 ### 📊 GitHub Stats:
 <div align="left">
