@@ -2,13 +2,20 @@
 
 Hi! I am **Kyran Gabriel E. Josafat**, an **aspiring mobile developer**. I am constantly exploring new ideas, improving user experiences, and learning new technologies to sharpen my skills, while creating projects that make technology more helpful and enjoyable to use. I aim to create apps that not only work well but also bring people simple joy and convenience.
 
+### 🚀 What I'm Working On
+- Building Mobile Apps using Flutter
+- Improving UI/UX consistency in real projects
+- Exploring Game Mechanics and Scripting in Unity
+
+
 ### 🧠 What I'm Learning
-- Flutter mobile development
-- Front-end development with HTML, CSS, and JavaScript  
-- UI/UX consistency and responsive design
-- Game development
+- Flutter Mobile Development
+- UI/UX Consistency and Responsive Design
+- Front-end Development with HTML, CSS, and JavaScript  
+- Game Development
 
 ### ⚙️ Tools & Technologies
+Currently using and learning:
 
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
@@ -52,13 +59,14 @@ Hi! I am **Kyran Gabriel E. Josafat**, an **aspiring mobile developer**. I am co
 <div align="left">
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=shizuiixui&theme=dark&hide_border=true&border_radius=8&cache_bust=1)](https://git.io/streak-stats)
-  
+
+  💬 I’d love to learn, grow, and build meaningful things together.
 </div>
 
-💬 I’d love to learn, grow, and build meaningful things together.
+*"You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win."*  
+*— Zig Ziglar*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyran-gabriel-josafat-37a1432a1/)
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:kyjosafat0@gmail.com)
+
 
 
 
