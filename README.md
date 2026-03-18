@@ -1,20 +1,20 @@
-## 🎯 About me:
+##  About me:
 
 Hi! I am **Kyran Gabriel E. Josafat**, an **aspiring mobile developer**. I am constantly exploring new ideas, improving user experiences, and learning new technologies to sharpen my skills, while creating projects that make technology more helpful and enjoyable to use. I aim to create apps that not only work well but also bring people simple joy and convenience.
 
-### 🚀 What I'm Working On
+###  What I'm Working On
 - Building Mobile Apps using Flutter
 - Improving UI/UX consistency in real projects
 - Exploring Game Mechanics and Scripting in Unity
 
 
-### 🧠 What I'm Learning
+###  What I'm Learning
 - Flutter Mobile Development
 - UI/UX Consistency and Responsive Design
 - Front-end Development with HTML, CSS, and JavaScript  
 - Game Development
 
-### ⚙️ Tools & Technologies
+###  Tools & Technologies
 Currently using and learning:
 
 <p align="left">
@@ -55,12 +55,12 @@ Currently using and learning:
   </a>
 </p>
 
-### 📊 GitHub Stats:
+###  GitHub Stats:
 <div align="left">
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=shizuiixui&theme=dark&hide_border=true&border_radius=8&cache_bust=1)](https://git.io/streak-stats)
 
-  💬 I’d love to learn, grow, and build meaningful things together.
+   I’d love to learn, grow, and build meaningful things together.
 </div>
 
 *"You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win."*  
