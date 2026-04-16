@@ -5,53 +5,51 @@ Hi! I am **Kyran Gabriel E. Josafat**, an **aspiring mobile developer**. I am co
 ###  What I'm Working On
 - Building Mobile Apps using Flutter
 - Improving UI/UX consistency in real projects
-- Exploring Game Mechanics and Scripting in Unity
 
 
 ###  What I'm Learning
 - Flutter Mobile Development
 - UI/UX Consistency and Responsive Design
 - Front-end Development with HTML, CSS, and JavaScript  
-- Game Development
 
 ###  Tools & Technologies
 Currently using and learning:
 
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"  align = "left"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="35" height="35"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="35" height="35"  align = "left"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="35" height="35"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="35" height="35"  align = "left"/>
   </a>
   &nbsp;&nbsp;
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"  align = "left"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="35" height="35"/>
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="35" height="35"  align = "left"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="35" height="35"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="35" height="35"  align = "left"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://developer.android.com/guide/topics/ui/declaring-layout" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="XML" width="35" height="35"/>
+    <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="XML" width="35" height="35"  align = "left"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="35" height="35"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="35" height="35"  align = "left"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="35" height="35"/>
+    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="35" height="35"  align = "left"/>
   </a>
 </p>
 
