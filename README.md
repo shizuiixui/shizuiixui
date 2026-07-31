@@ -1,6 +1,6 @@
 ##  About me:
 
-Hi! I am **Kyran Gabriel E. Josafat**, an **aspiring ui/ux designer & mobile developer**. I am constantly exploring new ideas, improving user experiences, and learning new technologies to sharpen my skills, while creating projects that make technology more helpful and enjoyable to use. I aim to create apps that not only work well but also bring people simple joy and convenience.
+Hi! I am **Kyran Gabriel E. Josafat**, an **Aspiring UI/UX Designer & Full Stack Mobile Developer**. I am constantly exploring new ideas, improving user experiences, and learning new technologies to sharpen my skills, while creating projects that make technology more helpful and enjoyable to use. I aim to create apps that not only work well but also bring people simple joy and convenience.
 
 ###  What I'm Working On
 - Building Mobile Apps using Flutter
@@ -9,6 +9,7 @@ Hi! I am **Kyran Gabriel E. Josafat**, an **aspiring ui/ux designer & mobile dev
 
 ###  What I'm Learning
 - Flutter Mobile Development
+- Back-end Development
 - UI/UX Consistency and Responsive Design
 - Front-end Development with HTML, CSS, and JavaScript  
 
