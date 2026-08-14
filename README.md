@@ -1,3 +1,8 @@
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px">
+</div>
+
 ##  About me:
 
 Hi! I am **Kyran Gabriel E. Josafat**, an **Aspiring UI/UX Designer & Full Stack Mobile Developer**. I am constantly exploring new ideas, improving user experiences, and learning new technologies to sharpen my skills, while creating projects that make technology more helpful and enjoyable to use. I aim to create apps that not only work well but also bring people simple joy and convenience.
@@ -66,5 +71,8 @@ Currently using and learning:
    I’d love to learn, grow, and build meaningful things together.
 </div>
 
-*"You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win."*  
-*— Zig Ziglar*
+<div align="left">
+ <p align="left">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+</div>
