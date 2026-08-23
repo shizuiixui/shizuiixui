@@ -2,12 +2,12 @@
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px">
 </div>
 
-##  About me:
-
+###  About me:
 Hi! I am **Kyran Gabriel E. Josafat**, an **Aspiring UI/UX Designer & Full Stack Mobile Developer**. I am constantly exploring new ideas, improving user experiences, and learning new technologies to sharpen my skills, while creating projects that make technology more helpful and enjoyable to use. I aim to create apps that not only work well but also bring people simple joy and convenience.
 
 ###  What I'm Working On
-- Building Mobile Apps using Flutter
+- Building Mobile Apps using **Flutter**
+- Diving into backend development with **Node.js, MongoDb, and Supabase**
 - Improving UI/UX consistency in real projects
 
 
@@ -15,7 +15,6 @@ Hi! I am **Kyran Gabriel E. Josafat**, an **Aspiring UI/UX Designer & Full Stack
 - Flutter Mobile Development
 - Back-end Development
 - UI/UX Consistency and Responsive Design
-- Front-end Development with HTML, CSS, and JavaScript  
 
 ###  Tools & Technologies
 Currently using and learning:
